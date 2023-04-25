@@ -1,3 +1,3 @@
-# wiight_management
+# weight_management
 
 A new Flutter project.
