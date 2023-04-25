@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "566175874567",
+    "project_id": "weight-management-b3394",
+    "storage_bucket": "weight-management-b3394.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566175874567:android:53cc31d50f0c0f0a5674a2",
+        "android_client_info": {
+          "package_name": "com.example.weight_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566175874567-ffcfjbvhh3utiolf9uipjqpovcmtm37p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weight_management",
+            "certificate_hash": "c52b65160b5c186533973bdae9cee1aa15750cb6"
+          }
+        },
+        {
+          "client_id": "566175874567-nf235ic14dd15rd99lp71sd2k1tq5j8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6N_HlkAh2fCZJpbTcdUlKLk6KXZ9xXBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566175874567-bihfjojq8soslk0a6bji986ov4aa4ott.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
